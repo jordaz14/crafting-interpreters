@@ -1,0 +1,3 @@
+#Just-in-time compilation tends to be the fastest way to implement dynamically typed languages, but not all of them use it. What reasons are there to not JIT?
+
+JIT is advantageous for dynamically typed languages because it allows for runtime optimizations based on type information and execution patterns. However, reasons not to use JIT include increased startup time overhead, memory consumption, and complexity.
