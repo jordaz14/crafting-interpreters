@@ -1,0 +1,3 @@
+#Most Lisp implementations that compile to C also contain an interpreter that lets them execute Lisp code on the fly as well. Why?
+
+Overall, having an interpreter allows for a simpler implementation of certain Lisp features that might be cumbersome to handle directly in compiled code. Additionally, Lisp is known for its Read-Eval-Print-Loop which allows for interactive development, and an interpreter is essential for providing immediate feedback during development.
