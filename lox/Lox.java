@@ -50,7 +50,7 @@ private static void run (String source) {
 
     //For now, just print the tokens.
     for (Token token: tokens) {
-        System.out.printlin(token);
+        System.out.println(token);
     }
 }
 
